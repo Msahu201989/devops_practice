@@ -1,0 +1,11 @@
+{
+
+  "Resources" : {
+    "FirstEC2Instance" : {
+      "Type" : "AWS::EC2::Instance",
+      "Properties": {
+        "ImageID" : "ami-0bb6af715826253bf"
+      }
+    }
+  }
+}
